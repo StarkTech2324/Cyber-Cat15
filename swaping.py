@@ -4,9 +4,9 @@ b=input("enter the value of second veriable: ")
 print("value of first veriable is ",a)
 print("value of second veriable is ",b)
 
-c=input("press enter for swaping")
+print("swaping the first and second veriables")
 
 a,b=b,a
-
-print("value of first veriable after swaping ",a)
-print("value of second veriable after swaping ",b)
+print("---after swaping---")
+print("value of first veriable is ",a)
+print("value of second veriable is ",b)
